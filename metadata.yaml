@@ -1,0 +1,30 @@
+_repo: How-to-Amuse-Youself-and-Others-The-American-Girl-s-Handy-Book_52051
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Beard, Lina
+    gutenberg_agent_id: '8086'
+    url: http://www.gutenberg.org/2009/agents/8086
+  - agent_name: Beard, Adelia B. (Adelia Belle)
+    alias: Beard, Adelia Belle
+    birthdate: 1857
+    deathdate: 1920
+    gutenberg_agent_id: '8087'
+    url: http://www.gutenberg.org/2009/agents/8087
+description: ''
+gutenberg_issued: '2016-05-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52051'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'GV'
+- !lcsh 'Handicraft -- Juvenile literature'
+- !lcc 'TT'
+- !lcsh 'Amusements -- Juvenile literature'
+- GITenberg
+title: 'How to Amuse Youself and Others: The American Girl''s Handy Book'
+url: http://www.gutenberg.org/ebooks/52051
